@@ -15,7 +15,6 @@
   <img src="https://camo.githubusercontent.com/7f8b6716845b5d9cd69f8ce04e587bb955f45040549f33cbd5e9baf464ae5e7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6573744a732d6561323834353f7374796c653d666c61742d737175617265266c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465" />
   <img src="https://camo.githubusercontent.com/425d14e7ceaf18d8bb8e9bf17cd1a270c928c888b9ee4abe84a3bc8a5b3122fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465" />
   </div>
-  <br/>
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
@@ -23,7 +22,7 @@
     <br/>
   </div>
 </section>
-
+<hr/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiwoo&hide=css,html&layout=compact&theme=gruvbox)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guiwoo&show_icons=true&theme=gruvbox)
