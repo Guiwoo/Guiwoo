@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
     <img src="https://img.shields.io/badge/GO-3498DB?style=flat-square&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
     <br/>
   </div>
 </section>
