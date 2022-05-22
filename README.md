@@ -28,6 +28,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guiwoo&show_icons=true&theme=gruvbox)
 
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=Guiwoo&theme=nord&font=patrick_hand&show_rank=false)
+
 [See Portfolio](https://guiwoo.netlify.app/)
 
 <!---
