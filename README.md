@@ -31,7 +31,7 @@
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Guiwoo&theme=nord&font=patrick_hand&show_rank=false)
 
-[See Portfolio](https://guiwoo.netlify.app)
+[My Journey](https://guiwoo.netlify.app)
 
 [Blog](https://guiwoo.tistory.com/)
 
