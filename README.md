@@ -1,6 +1,9 @@
 <h1><b>😉</b> Hi Nice to See you !</h1>
 <h4>Welcome to my page! </h3>
 <h4>I'm Park,New software devleoper, currently living in 🇰🇷 South Korea</h4>
+[Resume](https://plucky-fireplace-e4d.notion.site/0207d19a613d4d3db5ac06830f123184)
+[Blog](https://guiwoo.tistory.com/)
+[My Journey](https://guiwoo.netlify.app)
 <hr/>
 <h3>Things I code with</h1>
 <section>
@@ -30,10 +33,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guiwoo&show_icons=true&theme=gruvbox)
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Guiwoo&theme=nord&font=patrick_hand&show_rank=false)
-
-[My Journey](https://guiwoo.netlify.app)
-
-[Blog](https://guiwoo.tistory.com/)
 
 <!---
 Guiwoo/Guiwoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
