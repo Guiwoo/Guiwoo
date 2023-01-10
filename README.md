@@ -1,9 +1,20 @@
 <h1><b>😉</b> Hi Nice to See you !</h1>
 <h4>Welcome to my page! </h3>
 <h4>I'm Park,New software devleoper, currently living in 🇰🇷 South Korea</h4>
-[Resume](https://plucky-fireplace-e4d.notion.site/0207d19a613d4d3db5ac06830f123184)
-[Blog](https://guiwoo.tistory.com/)
-[My Journey](https://guiwoo.netlify.app)
+<div>
+    <a href="mailto:"park.guiwoo@hotmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Emai-black?style=flat-square&logo=MicrosoftOutlook&logoColor=white"/>
+    </a>
+    <a href="https://guiwoo.tistory.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tistory&logoColor=white"/>
+    </a>
+    <a href="https://plucky-fireplace-e4d.notion.site/0207d19a613d4d3db5ac06830f123184" target="_blank">
+      <img src="https://img.shields.io/badge/portfolio-black?style=flat-square&logo=Notion&logoColor=white" />
+    </a>
+    <a href="https://guiwoo.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/My%20Journey-black?style=flat-square&logo=EthiopianAirlines&logoColor=white">
+    </a>
+</div>
 <hr/>
 <h3>Things I code with</h1>
 <section>
