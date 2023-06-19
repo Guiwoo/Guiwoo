@@ -20,7 +20,8 @@ Self-motivated with ability to learn quickly.</h5>
 <hr/>
 <h3>Things I code with</h1>
 <section>
-  <div>
+  <div>                                                                                                                           
+  <img  src="https://img.shields.io/badge/GO-3498DB?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-1da53f?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" />
@@ -33,7 +34,6 @@ Self-motivated with ability to learn quickly.</h5>
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/GO-3498DB?style=flat-square&logo=go&logoColor=white" />
     <img src="https://camo.githubusercontent.com/425d14e7ceaf18d8bb8e9bf17cd1a270c928c888b9ee4abe84a3bc8a5b3122fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465" />
     <img src="https://camo.githubusercontent.com/7f8b6716845b5d9cd69f8ce04e587bb955f45040549f33cbd5e9baf464ae5e7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6573744a732d6561323834353f7374796c653d666c61742d737175617265266c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465" />
     <br/>
