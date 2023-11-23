@@ -13,9 +13,6 @@ Self-motivated with ability to learn quickly.</h5>
     <a href="https://plucky-fireplace-e4d.notion.site/0207d19a613d4d3db5ac06830f123184" target="_blank">
       <img src="https://img.shields.io/badge/portfolio-black?style=flat-square&logo=Notion&logoColor=white" />
     </a>
-    <a href="https://guiwoo.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/My%20Journey-black?style=flat-square&logo=EthiopianAirlines&logoColor=white">
-    </a>
 </div>
 <hr/>
 <h3>Things I code with</h1>
