@@ -1,6 +1,6 @@
 <h1><b>😉</b> Hi Nice to See you !</h1>
 <h4>Welcome to my page! </h3>
-<h4>I'm Park,Go devleoper/h4>
+<h4>I'm Park,Go devleoper</h4>
 <h5>Motivated and passionate Backend developer. Former experience in dynamic, fast -paced environments.</br>
 Self-motivated with ability to learn quickly.</h5>
 <div>
